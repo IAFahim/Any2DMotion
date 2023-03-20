@@ -15,9 +15,9 @@ Result: `Bone Rigged Animation`
 
 ## Learning techniques CNN, RL
 
-Convolutional neural networks (CNNs): for postion estimation
+*Convolutional neural networks (CNNs):* for postion estimation
 
-Reinforcement learning (RL): for Checking how accurate the model is based on bitmask match
+*Reinforcement learning (RL):* for Checking how accurate the model is based on bitmask match
 
 
 ## Outcome
