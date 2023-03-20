@@ -13,9 +13,10 @@ OpenPose to 2D sprite animation Bone placement model
 
 Result: `Bone Rigged Animation`
 
-## Learning techniques
+## Learning techniques CNN, RL
 
 Convolutional neural networks (CNNs): for postion estimation
+
 Reinforcement learning (RL): for Checking how accurate the model is based on bitmask match
 
 
