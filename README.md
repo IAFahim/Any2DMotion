@@ -4,12 +4,16 @@ OpenPose to 2D sprite animation Bone placement model
 
 ![diagram](/Any2DMotion_diagram.png)
 
+## Steps
+![steps](/Any2DMotion_Steps.png)
+
 - Take video of your movement
 - Give an image 2D Character
 
 Result: `Bone Rigged Animation`
 
-# OutCome
+
+## Outcome
 
 Should look like this for your Game Charecter
 
